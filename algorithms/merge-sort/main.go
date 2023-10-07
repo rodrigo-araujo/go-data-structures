@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	input := []int{11, 9, 7, 45, -1, 387}
+	input := []int{11, 9, 7}
 
 	result := mergeSort(input)
 
